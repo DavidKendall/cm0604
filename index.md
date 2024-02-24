@@ -64,10 +64,10 @@ course of the module.
 **5** | 16-Oct &nbsp; | [Modelling and analysis of security protocols.]({{site.raurl}}/A05.pdf) [Timed automata and timed transition systems]({{site.raurl}}/A05a.pdf) <br/> [[Uppaal tutorial]({{site.raurl}}/reading/uppaal-tutorial2004.pdf)] [[LEV95]({{site.raurl}}/reading/lev95.pdf)]&nbsp; | [Introduction to Uppaal]({{site.raurl}}/L05.pdf)
 **6** | 23-Oct &nbsp; | [Networks of timed automata. Specifying real-time properties.]({{site.raurl}}/A06.pdf) <br/> *Reading:* [[HOL01]({{site.raurl}}/reading/hol01.pdf)]&nbsp; | [Modelling a box sorter]({{site.raurl}}/L06.pdf) [[Model]({{site.raurl}}/resources/box-sorter.xml)]
 **7** | 30-Oct &nbsp; | [Uppaal language extensions and case study]({{site.raurl}}/A07.pdf) [[Case study resources]({{site.raurl}}/resources/case_study.zip)] &nbsp; | [Modelling and verifying a real-time communication protocol]({{site.raurl}}/L07.pdf) [[Model]({{site.raurl}}/resources/ttp.xml)]
-**8** | 06-Nov &nbsp; | [Principles of automata-theoretic verification of real-time systems]({{site.raurl}}/A08.pdf) &nbsp; | [Synthesising a schedule]({{site.raurl}}/L08.pdf) [[Model]({{site.raurl}}/resources/ttp.xml)]
+**8** | 06-Nov &nbsp; | [Principles of automata-theoretic verification of real-time systems]({{site.raurl}}/A08.pdf) &nbsp; | [Synthesising a schedule]({{site.raurl}}/L08.pdf) [[Model]({{site.raurl}}/resources/bridge.xml)]
 **9** | 13-Nov &nbsp; | [Introduction to probabilistic modelling. PRISM]({{site.raurl}}/A09.pdf) &nbsp; | [Probabilistic Models Lab 1]({{site.raurl}}/L09.pdf)
 **10** | 20-Nov &nbsp; | [More on PRISM]({{site.raurl}}/A10.pdf) &nbsp; | [Probabilistic Models Lab 2]({{site.raurl}}/L10.pdf)
-**11** | 27-Nov &nbsp; | [Probabilistic automata]({{site.raurl}}/A11.pdf) &nbsp; |[Probabilistic Models Lab 3]({{site.raurl}}/L10.pdf)
+**11** | 27-Nov &nbsp; | [Probabilistic automata]({{site.raurl}}/A11.pdf) &nbsp; |[Probabilistic Models Lab 3]({{site.raurl}}/L10.pdf) <br/> [Probabilistic reachability calculator]({{site.raurl}}/resources/ProbReach.zip)
 **12** | 04_Dec &nbsp; | [Probabilistic temporal logic]({{site.raurl}}/A12.pdf) &nbsp; | [Probabilistic Models Lab 4]({{site.raurl}}/L12.pdf)
 
 <br/>
@@ -83,7 +83,8 @@ should be spending about 13 hours per week on this module.
 
 Summative assessment comprises:
 
-* a substantial exercise in specification, design and analysis in which students will be required to demonstrate both a practical ability to apply appropriate languages, techniques and tools, and also an understanding of the theoretical principles underlying their practice.
+* a substantial exercise in specification, design and analysis in which students will be required to demonstrate both a practical ability to apply appropriate languages, techniques and tools, and also an understanding of the theoretical principles underlying their practice. This is a single assessment, contributing 100% of the
+module mark.
 
 The assessment specification will be made available to students in week 6 and will be discussed in the lab session that week. The work is due to be submitted via the elP (Blackboard) by 23.59 on Thursday of week 12. Feedback and provisional marks will be provided to students by email within 20 working days of submission.
 
